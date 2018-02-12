@@ -1,0 +1,18 @@
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.deps.json
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfoInputs.cache
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfo.cs
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.dll
+C:\Users\Dratuz\source\repos\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.deps.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfoInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.AssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\03. ASP.NET CORE - RAZOR & FILTERS\CameraBazaar\CameraBazaar.Data\obj\Debug\netstandard2.0\CameraBazaar.Data.pdb
