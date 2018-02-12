@@ -1,0 +1,6 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.pdb

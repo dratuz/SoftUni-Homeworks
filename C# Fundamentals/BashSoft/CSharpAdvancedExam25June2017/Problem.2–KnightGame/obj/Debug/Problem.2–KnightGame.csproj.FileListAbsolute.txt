@@ -1,0 +1,6 @@
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\bin\Debug\Problem.2–KnightGame.exe.config
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\bin\Debug\Problem.2–KnightGame.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\bin\Debug\Problem.2–KnightGame.pdb
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\obj\Debug\Problem.2–KnightGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\obj\Debug\Problem.2–KnightGame.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.2–KnightGame\obj\Debug\Problem.2–KnightGame.pdb

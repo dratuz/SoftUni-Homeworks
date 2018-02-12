@@ -1,0 +1,7 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\bin\Debug\Minedraft.Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\bin\Debug\Minedraft.Test.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\bin\Debug\nunit.framework.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\bin\Debug\nunit.framework.xml
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\obj\Debug\Minedraft.Test.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\obj\Debug\Minedraft.Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\RetakeExamC#OOPAdvanced7September2017\Structure_Skeleton\Structure_Skeleton\Minedraft.Test\obj\Debug\Minedraft.Test.pdb

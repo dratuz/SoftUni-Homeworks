@@ -1,0 +1,6 @@
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\bin\Debug\Problem.3–NumberWars.exe.config
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\bin\Debug\Problem.3–NumberWars.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\bin\Debug\Problem.3–NumberWars.pdb
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\obj\Debug\Problem.3–NumberWars.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\obj\Debug\Problem.3–NumberWars.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.3–NumberWars\obj\Debug\Problem.3–NumberWars.pdb

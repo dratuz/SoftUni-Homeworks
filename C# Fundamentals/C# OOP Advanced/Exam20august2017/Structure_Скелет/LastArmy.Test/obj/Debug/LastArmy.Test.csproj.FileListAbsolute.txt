@@ -1,0 +1,7 @@
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\bin\Debug\LastArmy.Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\bin\Debug\LastArmy.Test.pdb
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\bin\Debug\nunit.framework.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\bin\Debug\nunit.framework.xml
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\obj\Debug\LastArmy.Test.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\obj\Debug\LastArmy.Test.dll
+D:\SoftUni\C# Fundamentals\C# OOP Advanced\Exam20august2017\Structure_Скелет\LastArmy.Test\obj\Debug\LastArmy.Test.pdb

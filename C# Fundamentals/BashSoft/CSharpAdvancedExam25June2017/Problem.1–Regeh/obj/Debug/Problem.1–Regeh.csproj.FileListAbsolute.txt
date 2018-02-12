@@ -1,0 +1,6 @@
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\bin\Debug\Problem.1–Regeh.exe.config
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\bin\Debug\Problem.1–Regeh.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\bin\Debug\Problem.1–Regeh.pdb
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\obj\Debug\Problem.1–Regeh.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\obj\Debug\Problem.1–Regeh.exe
+D:\SoftUni\C# Fundamentals\BashSoft\CSharpAdvancedExam25June2017\Problem.1–Regeh\obj\Debug\Problem.1–Regeh.pdb
