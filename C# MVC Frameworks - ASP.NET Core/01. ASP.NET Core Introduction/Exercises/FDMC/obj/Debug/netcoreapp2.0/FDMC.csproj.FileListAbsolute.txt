@@ -1,0 +1,11 @@
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\bin\Debug\netcoreapp2.0\FDMC.deps.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\bin\Debug\netcoreapp2.0\FDMC.runtimeconfig.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\bin\Debug\netcoreapp2.0\FDMC.runtimeconfig.dev.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\bin\Debug\netcoreapp2.0\FDMC.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\bin\Debug\netcoreapp2.0\FDMC.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.AssemblyInfoInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.AssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\01. ASP.NET Core Introduction\Exercises\FDMC\obj\Debug\netcoreapp2.0\FDMC.pdb
