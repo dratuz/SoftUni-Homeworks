@@ -4,6 +4,7 @@
 <script>window.onload = function () {
     stopwatch();
 };
+
 function stopwatch() {
     let interval;
     let totalSeconds;
@@ -13,7 +14,7 @@ function stopwatch() {
     startButton.addEventListener('click', start);
     endButton.addEventListener('click', end);
     function start() {
-        totalSeconds = -1;
+        totalSeconds = 0;
         interval = setInterval(addTime, 1000);
         startButton.disabled = true;
         endButton.disabled = false;
